@@ -226,7 +226,7 @@
                         <div id="logo_normal" class="logo_container">
                             <div class="logo_align">
                                 <a id="custom_logo" class="logo_wrapper hidden" href="index.html">
-                                    <img src="images/logo@2x_white.png" alt="" width="175" height="24" />
+                                    <img src="/template//template/images/logo@2x_white.png" alt="" width="175" height="24" />
                                 </a>
                             </div>
                         </div>
@@ -234,7 +234,7 @@
                         <div id="logo_transparent" class="logo_container">
                             <div class="logo_align">
                                 <a id="custom_logo_transparent" class="logo_wrapper default" href="index.html">
-                                    <img src="images/logo@2x_white.png" alt="" width="175" height="24" />
+                                    <img src="/template/images/logo@2x_white.png" alt="" width="175" height="24" />
                                 </a>
                             </div>
                         </div>
@@ -435,7 +435,7 @@
                     </div>
                 </div>
             </div>
-            <div class="one withsmallpadding ppb_contact_half_bg withbg parallax " style="background-image:url(upload/evening.jpg);background-position: center center;padding:40px 0 40px 0;">
+            <div class="one withsmallpadding ppb_contact_half_bg withbg parallax " style="background-image:url(/template/upload/evening.jpg);background-position: center center;padding:40px 0 40px 0;">
                 <div class="standard_wrapper">
                     <div class="page_content_wrapper">
                         <div class="inner">
@@ -498,7 +498,7 @@
                     <div id="15722574382014118329" class="portfolio_filter_wrapper gallery five_cols" data-columns="5">
                         <div class="element grid photoframe fixed_columns classic5_cols animated1">
                             <div class="one_fifth gallery5 classic filterable">
-                                <div class="post_img"><img class="team_pic" src="upload/pexels-photo-62365-500x500.jpeg" alt="" />
+                                <div class="post_img"><img class="team_pic" src="/template/upload/pexels-photo-62365-500x500.jpeg" alt="" />
                                     <ul class="social_wrapper team">
                                         <li><a title="Jessica Lee on Twitter" target="_blank" class="tooltip" href="https://twitter.com/#"><i class="fa fa-twitter"></i></a></li>
                                         <li><a title="Jessica Lee on Facebook" target="_blank" class="tooltip" href="https://facebook.com/#"><i class="fa fa-facebook"></i></a></li>
@@ -514,7 +514,7 @@
                         </div>
                         <div class="element grid photoframe fixed_columns classic5_cols animated2">
                             <div class="one_fifth gallery5 classic filterable">
-                                <div class="post_img"><img class="team_pic" src="upload/pexels-photo-57759-500x500.jpeg" alt="" />
+                                <div class="post_img"><img class="team_pic" src="/template/upload/pexels-photo-57759-500x500.jpeg" alt="" />
                                     <ul class="social_wrapper team">
                                         <li><a title="John Bennett on Twitter" target="_blank" class="tooltip" href="https://twitter.com/#"><i class="fa fa-twitter"></i></a></li>
                                         <li><a title="John Bennett on Facebook" target="_blank" class="tooltip" href="https://facebook.com/#"><i class="fa fa-facebook"></i></a></li>
@@ -530,7 +530,7 @@
                         </div>
                         <div class="element grid photoframe fixed_columns classic5_cols animated3">
                             <div class="one_fifth gallery5 classic filterable">
-                                <div class="post_img"><img class="team_pic" src="upload/pexels-photo-176045-500x500.jpeg" alt="" />
+                                <div class="post_img"><img class="team_pic" src="/template/upload/pexels-photo-176045-500x500.jpeg" alt="" />
                                     <ul class="social_wrapper team">
                                         <li><a title="Christina Hardy on Twitter" target="_blank" class="tooltip" href="https://twitter.com/#"><i class="fa fa-twitter"></i></a></li>
                                         <li><a title="Christina Hardy on Facebook" target="_blank" class="tooltip" href="https://facebook.com/#"><i class="fa fa-facebook"></i></a></li>
@@ -546,7 +546,7 @@
                         </div>
                         <div class="element grid photoframe fixed_columns classic5_cols animated4">
                             <div class="one_fifth gallery5 classic filterable">
-                                <div class="post_img"><img class="team_pic" src="upload/pexels-photo-167471-500x500.jpeg" alt="" />
+                                <div class="post_img"><img class="team_pic" src="/template/upload/pexels-photo-167471-500x500.jpeg" alt="" />
                                     <ul class="social_wrapper team">
                                         <li><a title="Oliver Doe on Twitter" target="_blank" class="tooltip" href="https://twitter.com/#"><i class="fa fa-twitter"></i></a></li>
                                         <li><a title="Oliver Doe on Facebook" target="_blank" class="tooltip" href="https://facebook.com/#"><i class="fa fa-facebook"></i></a></li>
@@ -562,7 +562,7 @@
                         </div>
                         <div class="element grid photoframe fixed_columns classic5_cols animated5">
                             <div class="one_fifth gallery5 classic filterable">
-                                <div class="post_img"><img class="team_pic" src="upload/pexels-photo-48646-1-500x500.jpeg" alt="" />
+                                <div class="post_img"><img class="team_pic" src="/template/upload/pexels-photo-48646-1-500x500.jpeg" alt="" />
                                     <ul class="social_wrapper team">
                                         <li><a title="Jane Bennett on Twitter" target="_blank" class="tooltip" href="https://twitter.com/#"><i class="fa fa-twitter"></i></a></li>
                                         <li><a title="Jane Bennett on Facebook" target="_blank" class="tooltip" href="https://facebook.com/#"><i class="fa fa-facebook"></i></a></li>
@@ -592,7 +592,7 @@
             <div id="portfolio_filter_wrapper" class="gallery grid four_cols portfolio-content section content clearfix" data-columns="4">
                 <div class="element grid classic4_cols animated1">
 
-                    <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-1" style="background-image:url(upload/mercedes-benz-cls-class-shooting-brake-13824-1920x1200-700x466.jpg);">
+                    <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-1" style="background-image:url(/template/upload/mercedes-benz-cls-class-shooting-brake-13824-1920x1200-700x466.jpg);">
                         <a class="car_image" href="#"></a>
                         <div class="portfolio_info_wrapper">
                             <div class="car_attribute_wrapper">
@@ -609,7 +609,7 @@
                 </div>
                 <div class="element grid classic4_cols animated2">
 
-                    <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-2" style="background-image:url(upload/P14_0596_a4_rgb-1-700x466.jpg);">
+                    <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-2" style="background-image:url(/template/upload/P14_0596_a4_rgb-1-700x466.jpg);">
                         <a class="car_image" href="#"></a>
                         <div class="portfolio_info_wrapper">
                             <div class="car_attribute_wrapper">
@@ -626,7 +626,7 @@
                 </div>
                 <div class="element grid classic4_cols animated3">
 
-                    <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-3" style="background-image:url(upload/2016-Mercedes-Benz-GLE-2-700x466.jpg);">
+                    <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-3" style="background-image:url(/template/upload/2016-Mercedes-Benz-GLE-2-700x466.jpg);">
                         <a class="car_image" href="#"></a>
                         <div class="portfolio_info_wrapper">
                             <div class="car_attribute_wrapper">
@@ -643,7 +643,7 @@
                 </div>
                 <div class="element grid classic4_cols animated4">
 
-                    <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-4" style="background-image:url(upload/Porsche-Boxster-Wheels-8-700x466.jpg);">
+                    <div class="one_fourth gallery4 grid static filterable portfolio_type themeborder" data-id="post-4" style="background-image:url(/template/upload/Porsche-Boxster-Wheels-8-700x466.jpg);">
                         <a class="car_image" href="#"></a>
                         <div class="portfolio_info_wrapper">
                             <div class="car_attribute_wrapper">
@@ -668,7 +668,7 @@
                     <h2 class="widgettitle">About Us</h2>
                     <div class="textwidget">
                         <p>Getting dressed up and traveling with good friends makes for a shared, unforgettable experience. </p>
-                        <p><img src="images/logo@2x_white.png" alt="" width="175" height="24"></p>
+                        <p><img src="/template/images/logo@2x_white.png" alt="" width="175" height="24"></p>
                     </div>
                 </li>
                 <li id="text-3" class="widget widget_text">
