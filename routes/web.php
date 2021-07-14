@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('template.about_us.about_us');
-});
-// Route::get('/', 'AboutController@index');
+// Route::get('/', function () {
+//     return view('template.about_us.about_us');
+// });
+Route::get('/',[AboutController::class, 'index']);
