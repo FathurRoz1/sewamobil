@@ -4,10 +4,10 @@ namespace App\Http\Controllers\Template;
 
 use App\Http\Controllers\Controller;
 
-class SewaController extends Controller
+class AboutController extends Controller
 {
     public function index()
     {
-        return view('template.sewa.sewa');
+        return view('template.about_us.about_us');
     }
 }
