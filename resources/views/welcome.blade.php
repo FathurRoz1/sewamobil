@@ -4,7 +4,7 @@
 <head>
 
 
-    <link rel="shortcut icon" href="upload/TG-Thumb.png" />
+    <link rel="shortcut icon" href="/template/upload/TG-Thumb.png" />
 
     <title>Grand Car Rental | Limousine Car Rental HTML</title>
 
@@ -33,7 +33,8 @@
     <link rel='stylesheet' href='/template/css/grid.css' type='text/css' media='all' />
 
 
-    <link rel='stylesheet' href='/template/https://fonts.googleapis.com/css?family=Work+Sans%3A100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900%7CPoppins%3A300%2Cregular%2C500%2C600%2C700%2C900&#038;subset' type='text/css' media='all' />
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
 
 
@@ -42,6 +43,7 @@
 <body class="home page-template-default page page-id-3075 woocommerce-no-js ppb_enable">
 
 @yield('content')  
+
     <script type='text/javascript' src='/template/js/jquery.js'></script>
     <script type='text/javascript' src='/template/js/jquery-migrate.min.js'></script>
     <script type='text/javascript' src='/template/js/plugins/grandcarrental-custom-post/js/jquery.barrating.js'></script>
