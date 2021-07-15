@@ -91,6 +91,17 @@
         var mc4wp_forms_config = [];
         /* ]]> */
     </script>
+    <script>
+        jQuery(function() {
+            jQuery("#driving_rating, #interior_rating, #space_rating, #overall_rating").barrating({
+                theme: "fontawesome-stars-o",
+                emptyValue: 0,
+                allowEmpty: true
+            });
+
+            jQuery("#driving_rating, #interior_rating, #space_rating, #overall_rating").barrating("set", 0);
+        });
+    </script>
     <script type='text/javascript' src='http://themes.themegoods.com/grandcarrental/demo/wp-admin/admin-ajax.php?action=grandcarrental_script_animate_counter_shortcode&#038;id=15722574381434579802&#038;start=0&#038;end=1109&#038;fontsize=60'></script>
     <script type='text/javascript' src='http://themes.themegoods.com/grandcarrental/demo/wp-admin/admin-ajax.php?action=grandcarrental_script_animate_counter_shortcode&#038;id=15722574381897655566&#038;start=0&#038;end=7010&#038;fontsize=60'></script>
 

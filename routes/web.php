@@ -1,5 +1,7 @@
 <?php
+
 namespace App\Http\Controllers\Template;
+
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,7 +15,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/', function () {
-//     return view('template.about_us.about_us');
+// Route::get('/sewa', function () {
+//     return view('template.sewa.sewa');
 // });
-Route::get('/',[AboutController::class, 'index']);
+Route::get('/', [AboutController::class, 'index']);
+Route::get('/sewa', [SewaController::class, 'index']);
