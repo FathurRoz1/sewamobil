@@ -20,3 +20,4 @@ use Illuminate\Support\Facades\Route;
 // });
 Route::get('/', [AboutController::class, 'index']);
 Route::get('/sewa', [SewaController::class, 'index']);
+Route::get('/mobil', [MobilController::class, 'index']);
