@@ -15,9 +15,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/sewa', function () {
-//     return view('template.sewa.sewa');
+// Route::get('/', function () {
+//     return view('template.home.home');
 // });
-Route::get('/', [AboutController::class, 'index']);
+Route::get('/', [HomeController::class, 'index']);
+Route::get('/about', [AboutController::class, 'index']);
 Route::get('/sewa', [SewaController::class, 'index']);
 Route::get('/mobil', [MobilController::class, 'index']);
