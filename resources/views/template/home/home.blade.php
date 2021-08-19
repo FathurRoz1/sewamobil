@@ -9,44 +9,7 @@
                   <div class="standard_wrapper">
                       <h2 class="ppb_title" style="color:#ffffff;">Find Best Car &amp; Limousine</h2>
                       <div class="page_tagline" style="color:#ffffff;">From as low as $10 per day with limited time offer discounts</div>
-                      <form class="car_search_form" method="get" action="#">
-                          <div class="car_search_wrapper">
-                              <div class="one_fourth themeborder">
-                                  <select id="brand" name="brand">
-                                      <option value="">Any Brand</option>
-                                      <option value="Audi">Audi</option>
-                                      <option value="BMW">BMW</option>
-                                      <option value="Lexus">Lexus</option>
-                                      <option value="Mercedes Benz">Mercedes Benz</option>
-                                      <option value="MINI">MINI</option>
-                                      <option value="Porsche">Porsche</option>
-                                  </select>
-                                  <span class="ti-angle-down"></span>
-                              </div>
-                              <div class="one_fourth themeborder">
-                                  <select id="type" name="type">
-                                      <option value="">Any Type</option>
-                                      <option value="Coupe">Coupe</option>
-                                      <option value="Sedan">Sedan</option>
-                                      <option value="SUV">SUV</option>
-                                  </select>
-                                  <span class="ti-angle-down"></span>
-                              </div>
-                              <div class="one_fourth themeborder">
-                                  <select id="sort_by" name="sort_by">
-                                      <option value="price_low">Price Low to High</option>
-                                      <option value="price_high">Price High to Low</option>
-                                      <option value="model">Sort By Model</option>
-                                      <option value="popular">Sort By Popularity</option>
-                                      <option value="review">Sort By Review Score</option>
-                                  </select>
-                                  <span class="ti-exchange-vertical"></span>
-                              </div>
-                              <div class="one_fourth last themeborder">
-                                  <input id="car_search_btn" type="submit" class="button" value="Search" />
-                              </div>
-                          </div>
-                      </form>
+                     
                   </div>
               </div>
           </div>
@@ -62,7 +25,7 @@
               <h2 class="widgettitle">About Us</h2>
               <div class="textwidget">
                   <p>Getting dressed up and traveling with good friends makes for a shared, unforgettable experience. </p>
-                  <p><img src="images/logo@2x_white.png" alt="" width="175" height="24"></p>
+                  <p><img src="template/images/logo@2x_white.png" alt="" width="175" height="24"></p>
               </div>
           </li>
           <li id="text-3" class="widget widget_text">

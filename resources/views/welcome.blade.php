@@ -216,7 +216,7 @@
                                     <div id="menu_border_wrapper">
                                         <div class="menu-main-menu-container">
                                             <ul id="main_menu" class="nav">
-                                                <li class="menu-item menu-item-has-children arrow"><a href="index.html">Home</a>
+                                                <li class="menu-item menu-item-has-children arrow"><a href="/">Home</a>
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="/">Home </a></li>
                                                     </ul>
